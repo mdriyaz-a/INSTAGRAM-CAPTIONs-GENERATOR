@@ -31,14 +31,6 @@ A full-stack application that generates creative Instagram captions using AI and
 - React Router (Navigation)
 - Axios (API requests)
 
-## Setup Instructions
-
-### Quick Start
-For a quick start, you can use the provided scripts:
-- Windows: Run `run_app.bat`
-- macOS/Linux: Run `chmod +x run_app.sh && ./run_app.sh`
-
-These scripts will set up the environment and start both the backend and frontend servers.
 
 ### Prerequisites
 - Python 3.8+
@@ -163,10 +155,6 @@ The tables will be created automatically by SQLAlchemy when the application star
 - `PUT /api/posts/<post_id>`: Update a post
 - `DELETE /api/posts/<post_id>`: Delete a post
 - `POST /api/posts/<post_id>/post-to-instagram`: Post to Instagram
-
-## Troubleshooting
-
-If you encounter any issues while setting up or running the application, please refer to the [TROUBLESHOOTING.md](TROUBLESHOOTING.md) guide.
 
 ## License
 
